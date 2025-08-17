@@ -82,7 +82,9 @@
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-<img width="821" height="834" alt="image" src="https://github.com/user-attachments/assets/f790569d-02c2-4054-b80d-4f999eba9294" />
+
+<img width="820" height="833" alt="image" src="https://github.com/user-attachments/assets/f8e2b3ec-78fe-4a8a-8cf2-53567f7471f5" />
+
 
 
 ---
