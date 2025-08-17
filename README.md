@@ -9,24 +9,52 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Full-stack+Developer;Data+Science+Practitioner;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;Full-stack+Developer;Data+Science+Practitioner;Electronics+DIY+Maker;Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-###  ​​​ About Me
-
-- A final-year **Computer Science Engineering** student at C.V. Raman Global University, Bhubaneswar.
-- Published researcher — Presented at **IEEE 16th Convocation, IIT Indore**, IEEE-indexed paper on leukemia diagnosis (BPNN + TOPSIS).
-- Hands-on experience with **Python, Java, SQL, TypeScript**, JavaScript, Web Development, AI, and Data Science.
-- Built projects like **SkillBridge AI Assistants**, **Crop Prediction (Autocode)**, **RAG with LangChain**, **CricDR AI Cricket Tools**, **Movie Sentiment Analyzer**, **Text Summarizer**, **Digit Recognizer**, **Railway Booking System**, **Java Chat Apps**, and responsive **EV Shopping Site**.
-- Internship journey includes **Edunet Foundation (Microsoft AI Azure, IBM)**, **OSHB**, **Etailed Digital India**, **CodTech (SQL)**, **Teachnook-Wipro Dice (Web Dev)**, and **Proxenix (Data Science)**.
-- Certified across platforms: **SoloLearn**, **Simplilearn**, **AWS-SkillBuild**, **Google-SkillBuild**, **IBM-SkillBuild**, **Forage**, **LetsUpgrade**, **NASSCOM FutureSkills Prime**, and more.
-- Outside tech — loves **painting**, **crafting**, and plays **cricket** to nurture creativity, teamwork & strategy.
+## 📑 Table of Contents  
+- [👨‍💻 About Me](#-about-me)  
+- [🚀 My Journey & Interests](#-my-journey--interests)  
+- [🛠️ Tech Stack](#️-tech-stack)  
+- [📂 Featured Projects](#-featured-projects)  
+- [🤝 Let’s Collaborate](#-lets-collaborate)  
+- [📊 GitHub Stats](#-github-stats)  
+- [🌐 Connect With Me](#-connect-with-me)  
 
 ---
 
-###  ​ Tech Stack
+## 👨‍💻 About Me  
+
+I’m **Debadatta Rout**, a final-year **Computer Science Engineering student** at *C.V. Raman Global University, Bhubaneswar*.  
+My love for technology started in my school days at *Kendriya Vidyalaya No.1*, when curiosity about how computers work slowly grew into a passion. Today, I combine **AI, Machine Learning, and Data Science** to solve real-world problems.  
+
+- 📖 **Researcher**: Co-authored an IEEE-published paper on *Leukemia Diagnosis using BPNN + TOPSIS*.  
+- 🏆 **Competitor**: 2nd Runners-up in *Infosys Global Hackathon 2025*.  
+- 💼 **Intern**: Gained experience through internships at *Microsoft AI Azure (Edunet Foundation)*, *Odisha State Housing Board*, *Etailed Digital India*, *Wipro Teachnook*, *CodTech*, and *Proxenix*.  
+- 🔧 **Builder**: Designed projects across AI agents, web apps, ML models, and Java-based systems.  
+- 🎨 **Creative Mind**: Love *painting, crafting, cricket, food, and traveling*. These keep me innovative and help me see problems from new perspectives.  
+
+---
+
+## 🚀 My Journey & Interests  
+
+✨ **From Curiosity to Code**  
+Started by experimenting with **electronics prototypes** using motors, batteries, and lights during lockdown—turned waste and cardboard into creative models. This built my interest in **DIY projects and prototypes**.  
+
+🍲 **Foodie & Traveler**  
+Love discovering new cultures, traditions, and cuisines while exploring places.  
+
+🎭 **Art & Craft Enthusiast**  
+Enjoy making DIY crafts and models that blend imagination with practicality.  
+
+💡 **Tech Explorer**  
+I enjoy prompting, AI-driven workflows, and finding insights from others’ projects—drawing inspiration to build real-world solutions.  
+
+---
+
+## 🛠️ Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -42,26 +70,38 @@
 
 ---
 
-###  ​ Featured Projects
+## 📂 Featured Projects  
 
-<details open>
-  <summary>Click to view highlights</summary>
-  
-| Project | Description |
-|---------|-------------|
-| **SkillBridge AI Assistants** | A suite of AI-powered learning & career tools using LangChain, RAG, and IBM Cloud. |
-| **Crop Prediction (IBM Autocode)** | Machine learning model for crop yield forecasting. |
-| **CricDR AI Cricket Tools** | AI-powered cricket training & strategy web app (CricDR Coach, CricketGPT Assistant, React Native companion). |
-| **Movie Sentiment & Text Summarizer** | NLP apps using Hugging Face + Gradio for review analysis & summarization. |
-| **D-Finance AI Agent** | Chatbot with RAG & IBM Granite for secure, multilingual digital-finance guidance. |
-| **Java Chat & Socket Apps** | Real-time chat systems with GUI, authentication, networking in Java. |
-| **EV Shopping Site / Railway Booking** | Responsive web applications demonstrating full-stack skills. |
+<p align="center">
+  <b>Some of my favorite works 👇</b>
+</p>
 
-</details>
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| SkillBridge Forge | Role-based internship explore platform prototype | TypeScript, React | [🔗 Repo](https://github.com/Debadatta22/skillbridge-forge) |
+| Digital Financial Literacy AI Agent | AI-powered RAG + IBM Granite assistant for secure finance learning | Python, IBM Cloud, RAG | [🔗 Repo](https://github.com/Debadatta22/Digital-Financial-Literacy-By-Debadatta) |
+| Crop Prediction | Forecasting crop yields using ML + IBM Autocode | Python, IBM Cloud | [🔗 Repo](https://github.com/Debadatta22/Crop-Prediction-using-Autocode) |
+| RAG with LangChain | Retrieval-Augmented Generation experimentation with IBM SkillsBuild | Python, Jupyter, LangChain | [🔗 Repo](https://github.com/Debadatta22/RAG_with_Langchain) |
+| CricDR AI Cricket Tools | Virtual cricket coach + AI assistants for players | TypeScript, React Native, Jotform | [🔗 Repo](https://github.com/Debadatta22/CricDR-Coach---AI-Powered-Cricket-Training-Dashboard) |
+| Movie Sentiment Analyzer | Sentiment classifier using DistilBERT + HuggingFace | Python, Gradio | [🔗 Repo](https://github.com/Debadatta22/Movie_sentiments_analysis) |
+| Text Summarizer | Summarization + QnA + Keyword extraction with Transformers | Python, Gradio | [🔗 Repo](https://github.com/Debadatta22/Text-Summarizer) |
+| Java Chat Application | Real-time Java chat app with GUI, authentication | Java, Swing, Networking | [🔗 Repo](https://github.com/Debadatta22/Java-Chat-Application) |
+| Smooth Transition UI | React project with seamless dark/light transitions | React, CSS | [🔗 Repo](https://github.com/Debadatta22/Smooth-Transition) |
+
+</div>
 
 ---
 
-###  ​ GitHub Stats
+## 🤝 Let’s Collaborate  
+
+💡 I’m always open to **collaborating on exciting ideas** in **AI, ML, Web Development, and Data Science**.  
+If you have a project in mind or want to **brainstorm real-world solutions together**, let’s connect and build something impactful!  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Debadatta22&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -73,7 +113,7 @@
 
 ---
 
-###  ​ Connect With Me
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="mailto:routdebadatta22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -82,15 +122,9 @@
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
-
-<img width="820" height="833" alt="image" src="https://github.com/user-attachments/assets/f8e2b3ec-78fe-4a8a-8cf2-53567f7471f5" />
-
-
-
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="180" alt="Keep Building" />
 </p>
 <p align="center">✨ “Keep learning, keep building, keep growing.”</p>
-
