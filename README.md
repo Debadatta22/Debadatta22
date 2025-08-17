@@ -120,6 +120,9 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
   <a href="https://www.linkedin.com/in/debadatta-rout-454935341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/debadatta22rout"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  
+  <img width="822" height="834" alt="image" src="https://github.com/user-attachments/assets/8daa3cef-6486-4552-a7ef-92115ee40279" />
+
 </p>
 
 ---
