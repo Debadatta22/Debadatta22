@@ -122,6 +122,8 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
   <a href="https://www.linkedin.com/in/debadatta-rout-454935341"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/debadatta22rout"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/debadatta-rout.6d68c474"><img src="https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
+
   
   <img width="829" height="836" alt="image" src="https://github.com/user-attachments/assets/12103782-e480-4cbf-987b-7e5618dc446f" />
 
