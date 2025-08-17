@@ -1,3 +1,5 @@
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/0990735d-5214-427c-bda1-dc429b325500" />
+
 <!-- Profile Header -->
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
@@ -121,7 +123,8 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
   <a href="https://www.instagram.com/debadatta22rout"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   
-  <img width="822" height="834" alt="image" src="https://github.com/user-attachments/assets/8daa3cef-6486-4552-a7ef-92115ee40279" />
+  <img width="829" height="836" alt="image" src="https://github.com/user-attachments/assets/12103782-e480-4cbf-987b-7e5618dc446f" />
+
 
 </p>
 
