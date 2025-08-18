@@ -29,7 +29,11 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Debadatta Rout**, a final-year **Computer Science Engineering student** at *C.V. Raman Global University, Bhubaneswar*.  
+<a href="https://dazzling-parfait-1076ae.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Debadatta%20Rout-00BFFF?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>  
+
+I’m a final-year **Computer Science Engineering student** at *C.V. Raman Global University, Bhubaneswar*.  
 My love for technology started in my school days at *Kendriya Vidyalaya No.1*, when curiosity about how computers work slowly grew into a passion. Today, I combine **AI, Machine Learning, and Data Science** to solve real-world problems.  
 
 - 📖 **Researcher**: Co-authored an IEEE-published paper on *Leukemia Diagnosis using BPNN + TOPSIS*.  
@@ -37,6 +41,7 @@ My love for technology started in my school days at *Kendriya Vidyalaya No.1*, w
 - 💼 **Intern**: Gained experience through internships at *Microsoft AI Azure (Edunet Foundation)*, *Odisha State Housing Board*, *Etailed Digital India*, *Wipro Teachnook*, *CodTech*, and *Proxenix*.  
 - 🔧 **Builder**: Designed projects across AI agents, web apps, ML models, and Java-based systems.  
 - 🎨 **Creative Mind**: Love *painting, crafting, cricket, food, and traveling*. These keep me innovative and help me see problems from new perspectives.  
+
 
 ---
 
