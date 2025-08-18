@@ -135,4 +135,4 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="180" alt="Keep Building" />
 </p>
-<p align="center">✨ “Keep learning, keep building, keep growing.”</p>
+<p align="center">✨ Keep learning, keep building, keep growing.</p>
