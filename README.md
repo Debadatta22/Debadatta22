@@ -142,6 +142,6 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="180" alt="Keep Building" />
+  <img src="https://github.com/user-attachments/assets/a265e1fc-2a05-4140-9686-402dc620e5f5" width="180" alt="Keep Building" />
 </p>
 <p align="center">✨ Keep learning, keep building, keep growing.</p>
