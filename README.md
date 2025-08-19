@@ -132,7 +132,8 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
   <a href="https://www.credly.com/users/debadatta-rout.6d68c474"><img src="https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
 
   
-  <img width="817" height="836" alt="image" src="https://github.com/user-attachments/assets/f0dbb400-39c2-4646-8d3e-0efe44b5e323" />
+  <img width="815" height="828" alt="image" src="https://github.com/user-attachments/assets/64379694-e6f5-4aae-a331-f9cb4b584796" />
+
 
 
 
