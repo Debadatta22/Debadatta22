@@ -34,6 +34,9 @@
 </a>  
 
 I’m a final-year **Computer Science Engineering student** at *C.V. Raman Global University, Bhubaneswar*.  
+
+Currently pursuing my Btech in C.S.E and securing 8.92 CGPA till my 6th Semester.
+
 My love for technology started in my school days at *Kendriya Vidyalaya No.1*, when curiosity about how computers work slowly grew into a passion. Today, I combine **AI, Machine Learning, and Data Science** to solve real-world problems.  
 
 - 📖 **Researcher**: Co-authored an IEEE-published paper on *Leukemia Diagnosis using BPNN + TOPSIS*.  
