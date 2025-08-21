@@ -85,7 +85,7 @@ I enjoy prompting, AI-driven workflows, and finding insights from others’ proj
 ## 📂 Featured Projects  
 
 <p align="center">
-  <b>Some of my favorite works 👇</b>
+  <b>Some of my favorite works 👇(adding more projects soon!)</b>
 </p>
 
 <div align="center">
