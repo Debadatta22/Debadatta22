@@ -90,6 +90,8 @@ I enjoy prompting, AI-driven workflows, and finding insights from others’ proj
 
 <div align="center">
 
+<div align="center">
+
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | SkillBridge Forge | Role-based internship explore platform prototype | TypeScript, React | [🔗 Repo](https://github.com/Debadatta22/skillbridge-forge) |
@@ -101,6 +103,11 @@ I enjoy prompting, AI-driven workflows, and finding insights from others’ proj
 | Text Summarizer | Summarization + QnA + Keyword extraction with Transformers | Python, Gradio | [🔗 Repo](https://github.com/Debadatta22/Text-Summarizer) |
 | Java Chat Application | Real-time Java chat app with GUI, authentication | Java, Swing, Networking | [🔗 Repo](https://github.com/Debadatta22/Java-Chat-Application) |
 | Smooth Transition UI | React project with seamless dark/light transitions | React, CSS | [🔗 Repo](https://github.com/Debadatta22/Smooth-Transition) |
+| **Granite-Entity-Extractor** | Entity extraction from unstructured book descriptions using IBM Granite-8B LLM | Python, Jupyter Notebook | [🔗 Repo](https://github.com/Debadatta22/Granite-Entity-Extractor) |
+| **Granite-Energy-Forecasting** | Time series forecasting of Spain’s hourly electricity demand using IBM Granite TinyTimeMixer (TTM) | Python, Jupyter Notebook | [🔗 Repo](https://github.com/Debadatta22/Granite-energy-forecasting) |
+
+</div>
+
 
 </div>
 
