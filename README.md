@@ -85,31 +85,44 @@ I enjoy prompting, AI-driven workflows, and finding insights from others’ proj
 ## 📂 Featured Projects  
 
 <p align="center">
-  <b>Some of my favorite works 👇(adding more projects soon!)</b>
+  <b>Some of my favorite works 👇 (constantly updating!)</b>
 </p>
-
-<div align="center">
 
 <div align="center">
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| SkillBridge Forge | Role-based internship explore platform prototype | TypeScript, React | [🔗 Repo](https://github.com/Debadatta22/skillbridge-forge) |
-| Digital Financial Literacy AI Agent | AI-powered RAG + IBM Granite assistant for secure finance learning | Python, IBM Cloud, RAG | [🔗 Repo](https://github.com/Debadatta22/Digital-Financial-Literacy-By-Debadatta) |
-| Crop Prediction | Forecasting crop yields using ML + IBM Autocode | Python, IBM Cloud | [🔗 Repo](https://github.com/Debadatta22/Crop-Prediction-using-Autocode) |
-| RAG with LangChain | Retrieval-Augmented Generation experimentation with IBM SkillsBuild | Python, Jupyter, LangChain | [🔗 Repo](https://github.com/Debadatta22/RAG_with_Langchain) |
-| CricDR AI Cricket Tools | Virtual cricket coach + AI assistants for players | TypeScript, React Native, Jotform | [🔗 Repo](https://github.com/Debadatta22/CricDR-Coach---AI-Powered-Cricket-Training-Dashboard) |
-| Movie Sentiment Analyzer | Sentiment classifier using DistilBERT + HuggingFace | Python, Gradio | [🔗 Repo](https://github.com/Debadatta22/Movie_sentiments_analysis) |
-| Text Summarizer | Summarization + QnA + Keyword extraction with Transformers | Python, Gradio | [🔗 Repo](https://github.com/Debadatta22/Text-Summarizer) |
-| Java Chat Application | Real-time Java chat app with GUI, authentication | Java, Swing, Networking | [🔗 Repo](https://github.com/Debadatta22/Java-Chat-Application) |
-| Smooth Transition UI | React project with seamless dark/light transitions | React, CSS | [🔗 Repo](https://github.com/Debadatta22/Smooth-Transition) |
-| **Granite-Entity-Extractor** | Entity extraction from unstructured book descriptions using IBM Granite-8B LLM | Python, Jupyter Notebook | [🔗 Repo](https://github.com/Debadatta22/Granite-Entity-Extractor) |
-| **Granite-Energy-Forecasting** | Time series forecasting of Spain’s hourly electricity demand using IBM Granite TinyTimeMixer (TTM) | Python, Jupyter Notebook | [🔗 Repo](https://github.com/Debadatta22/Granite-energy-forecasting) |
+| **Granite-Docling-RAG** | Production-ready RAG system for document retrieval powered by IBM Granite | Python, Jupyter, RAG | [🔗 Repo](https://github.com/Debadatta22/Granite-Docling-RAG-AI-Powered-Document-Retrieval-System) |
+| **Granite-Energy-Forecasting** | Spain’s hourly electricity demand forecasting with Granite TinyTimeMixer (TTM) | Python, Jupyter, Hugging Face | [🔗 Repo](https://github.com/Debadatta22/Granite-energy-forecasting) |
+| **Granite-Entity-Extractor** | Entity extraction from unstructured book descriptions using Granite-8B | Python, Jupyter Notebook | [🔗 Repo](https://github.com/Debadatta22/Granite-Entity-Extractor) |
+| **Digital Financial Literacy AI Agent** | RAG-powered multilingual financial literacy assistant | Python, IBM Granite, RAG | [🔗 Repo](https://github.com/Debadatta22/Digital-Financial-Literacy-By-Debadatta) |
+| **SkillBridge Forge** | Role-based internship explore platform prototype | TypeScript, React | [🔗 Repo](https://github.com/Debadatta22/skillbridge-forge) |
+| **LevelUp Assessments** | Assessment system for SkillBridge internship projects | TypeScript | [🔗 Repo](https://github.com/Debadatta22/levelup-assessments) |
+| **Crop Prediction (IBM Autocode)** | Crop yield prediction using ML + IBM Cloud Autocode | Python, ML | [🔗 Repo](https://github.com/Debadatta22/Crop-Prediction-using-Autocode) |
+| **RAG with LangChain** | IBM SkillsBuild lab on Retrieval-Augmented Generation | Python, Jupyter, LangChain | [🔗 Repo](https://github.com/Debadatta22/RAG_with_Langchain) |
+| **SkillBridge TechGlobe** | Internship project repo | — | [🔗 Repo](https://github.com/Debadatta22/SkillBridge_TechGlobe) |
+| **SkillBridge Frontend Part** | Frontend for SkillBridge learning platform | React, TypeScript | [🔗 Repo](https://github.com/Debadatta22/SkillBridge_Frontend-Part) |
+| **SkillBridge AI Assistant** | AI-powered internship guide assistant | Python, RAG | [🔗 Repo](https://github.com/Debadatta22/SkillBridge_AI-Assistant) |
+| **SkillBridge Career Companion** | Career-focused assistant for students | — | [🔗 Repo](https://github.com/Debadatta22/SkillBridge_Career_companion) |
+| **SkillBridge Gamified Learning** | Gamified learning platform prototype | React, TypeScript | [🔗 Repo](https://github.com/Debadatta22/SkillBridge_Gamified-Learning-Platform) |
+| **CricDR Coach** | AI-powered cricket coaching dashboard | TypeScript, React | [🔗 Repo](https://github.com/Debadatta22/CricDR-Coach---AI-Powered-Cricket-Training-Dashboard) |
+| **CricDR CricketGPT Assistant** | AI cricket assistant built with Jotform | No-Code (Jotform) | [🔗 Repo](https://github.com/Debadatta22/CricDR--CricketGPT-Assistant-) |
+| **CricDR Official Website** | Official cricket companion app | React Native, Expo | [🔗 Repo](https://github.com/Debadatta22/CricDR---Offical-Website) |
+| **Movie Sentiment Analyzer** | Sentiment classifier using DistilBERT + Gradio | Python, HuggingFace | [🔗 Repo](https://github.com/Debadatta22/Movie_sentiments_analysis) |
+| **Text Summarizer** | Summarization + QnA + Keyword extraction app | Python, HuggingFace, Gradio | [🔗 Repo](https://github.com/Debadatta22/Text-Summarizer) |
+| **Digit Recognizer** | Neural network for handwritten digit recognition | Python, Jupyter | [🔗 Repo](https://github.com/Debadatta22/Digit-Recognizer-Using-Neural-Networks) |
+| **SQL Task-4** | CodTech SQL Internship Task – DB Backup & Recovery | SQL | [🔗 Repo](https://github.com/Debadatta22/SQL-Task-4) |
+| **SQL Task-3** | CodTech SQL Internship Task 3 | SQL | [🔗 Repo](https://github.com/Debadatta22/SQL-Task-3) |
+| **SQL Task-2** | CodTech Internship Task 2 (subqueries, CTEs) | SQL | [🔗 Repo](https://github.com/Debadatta22/SQL-Task-2) |
+| **Academix Hub** | Student record management system | C++ | [🔗 Repo](https://github.com/Debadatta22/Academix-Hub) |
+| **Joins Practice (SQL Task-1)** | SQL Internship Task 1 (joins practice) | SQL | [🔗 Repo](https://github.com/Debadatta22/JOINS-PRACTICE) |
+| **Java Chat Application** | Real-time chat with GUI + authentication | Java, Swing, Sockets | [🔗 Repo](https://github.com/Debadatta22/Java-Chat-Application) |
+| **Java Socket Chat** | Simple Java Socket-based real-time chat | Java | [🔗 Repo](https://github.com/Debadatta22/Java-Socket-Chat) |
+| **Skills Intro to GitHub** | Practice repo for GitHub basics | Markdown | [🔗 Repo](https://github.com/Debadatta22/skills-introduction-to-github) |
+| **Smooth Transition UI** | Dark/light section transition in React | React, CSS | [🔗 Repo](https://github.com/Debadatta22/Smooth-Transition) |
 
 </div>
 
-
-</div>
 
 ---
 
