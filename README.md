@@ -141,7 +141,8 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
 
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debadatta22&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats-git-main-xxxxyyy.vercel.app/?user=Debadatta22&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+
 </p>
 
 ---
