@@ -155,6 +155,10 @@ If you have a project in mind or want to **brainstorm real-world solutions toget
   <a href="https://www.instagram.com/debadatta22rout"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://dazzling-parfait-1076ae.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
   <a href="https://www.credly.com/users/debadatta-rout.6d68c474"><img src="https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/debdattarut">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
 
   
   <img width="815" height="828" alt="image" src="https://github.com/user-attachments/assets/64379694-e6f5-4aae-a331-f9cb4b584796" />
