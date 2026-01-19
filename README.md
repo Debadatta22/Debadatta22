@@ -33,6 +33,16 @@
   <img src="https://img.shields.io/badge/Debadatta%20Rout-00BFFF?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>  
 
+<a href="https://www.kaggle.com/debdattarut" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/routdebadatta22" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
+
+
 I’m a final-year **Computer Science Engineering student** at *C.V. Raman Global University, Bhubaneswar*.  
 
 Currently pursuing my Btech in C.S.E and securing 8.92 CGPA till my 6th Semester.
